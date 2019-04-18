@@ -24,6 +24,7 @@ public class BSTDogProject {
       dog.add(new Dog("Eve",14.3));
       dog.add(new Dog("Ada",8.1));
       dog.add(new Dog("Eric",9.1));
+      dog.add(new Dog("Eric2",19.1));
       
       for ( int i = 0 ; i< dog.size(); i++){
        t.addDog(dog.get(i).getName(),dog.get(i).getWeight() );   

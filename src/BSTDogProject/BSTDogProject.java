@@ -8,7 +8,7 @@ package BSTDogProject;
 import java.util.ArrayList;
 /**
  *
- * @author Bingnan Dong
+ * @author 
  */
 public class BSTDogProject {
     public static void main(String[] args) {

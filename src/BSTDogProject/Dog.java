@@ -7,7 +7,7 @@ package BSTDogProject;
 
 /**
  *
- * @author Bingnan Dong
+ * @author 
  */
 public class Dog {
      private String DogName;

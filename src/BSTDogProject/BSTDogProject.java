@@ -29,6 +29,7 @@ public class BSTDogProject {
       dog.add(new Dog("Eric4",39.1));
       dog.add(new Dog("Eric6",59.1));
       dog.add(new Dog("Eric7",69.1));
+      dog.add(new Dog("Eric8",69.1));
       
       for ( int i = 0 ; i< dog.size(); i++){
        t.addDog(dog.get(i).getName(),dog.get(i).getWeight() );   
